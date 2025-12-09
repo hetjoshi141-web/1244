@@ -6,9 +6,6 @@ The aim of this framework is firstly to implement blockchain technology for EHR 
 <!-- TABLE OF CONTENTS -->
 
 
-## Application Demo Video  
-
-[![Demo](https://raw.githubusercontent.com/SuyashMore/SwasthyaChain/master/images/YT.png)](https://youtu.be/ieBG1Hj8naA)
 
 
 ## Installation
